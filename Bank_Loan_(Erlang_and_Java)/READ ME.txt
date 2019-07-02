@@ -1,0 +1,31 @@
+Running Code in Erlang-
+
+1. open Terminal(MAC)/Command Prompt(Windows) and type erl.
+
+2. Set your path to the destination direction using below command : [Please note the slash / are matching the ones in the example below]
+
+cd("e:/ProjectLocation/project").
+
+3. Compile the file, one by one as below - 
+
+c(money). c(customer). c(bank). 
+
+4. Run the code - money:start().
+
+or Just copy the line :    c(money). c(customer). c(bank).  money:start().
+
+@@@@@@@@@@@@@@@@@@@@@@
+
+
+Running Code in Java -
+
+1. open Terminal(MAC)/Command Prompt(Windows).
+
+2. Go to the directory where java file are located.
+
+3. Use below command - javac *.java
+4. Use below command - java Money
+
+Himanshu Kohli
+Student Id: 40070839
+
